@@ -65,11 +65,12 @@ h4{
 
 }
 
-.flex-container > div {
+.flex-container1 > div {
     background-color: #D3A663;
-    margin: 30px;
+    margin: 30px 40px 50px 60px;
     padding: 70px;
     font-size: 30px;
+    flex-direction: row;
   }
 
 
