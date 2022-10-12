@@ -46,3 +46,8 @@ header nav ul li:hover {
     color: black;
     text-decoration: underline;
 }
+.Aminaphoto {
+    width: 300px;
+    margin: 100px 150px 100px 500px;
+}
+
