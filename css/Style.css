@@ -65,7 +65,12 @@ h4{
 
 }
 
-
+.flex-container > div {
+    background-color: #D3A663;
+    margin: 30px;
+    padding: 70px;
+    font-size: 30px;
+  }
 
 
 { }{ }{ }{ }{ }{ }{ }{ }
