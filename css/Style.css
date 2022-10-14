@@ -3,6 +3,7 @@
 body { 
     background-color: rgba(253, 242, 222, 1);
     font-family: 'Inter', sans-serif;
+    text-align: center;
 
     
 }
@@ -10,6 +11,7 @@ body {
 header {
     display: flex;
     justify-content: space-between;
+    
 }
 
 header nav ul {
@@ -48,23 +50,19 @@ header nav ul li:hover {
 }
 .Aminaphoto {
     width: 300px;
-    margin: 100px 150px 100px 500px;
+    margin: 100px auto 100px auto;
 }
 
-.title{
-    margin: 50px 150px 5px 450px;
+.title { 
+    margin-top: 100px;
 }
-
-p { 
-    margin:50px 150px 100px 450px; ;
+.p {
+    margin-top: 100px;
+    
 }
-
-h3{ 
-    margin:0px 150px 100px 450px;
-
+.h2 {
+    margin-top: 100px   ;
 }
-
-
 .flex-container1 {
     
     margin: 30px 40px 50px;
@@ -72,8 +70,11 @@ h3{
     font-size: 30px;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-evenly;
     align-items: center;
+    
     
     
   }
@@ -84,9 +85,15 @@ h3{
     background-color: #D3A663;
     display: flex;
     justify-content: center;
+    align-items: center;
     padding: 2rem;
     text-align: center;
     border-radius: 14px;
+    
   }
 
 
+  h4{ 
+    margin-top: 500px;
+
+}
