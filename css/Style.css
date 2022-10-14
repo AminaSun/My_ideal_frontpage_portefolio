@@ -50,7 +50,7 @@ header nav ul li:hover {
 }
 .Aminaphoto {
     width: 300px;
-    margin: 100px auto 100px auto;
+    margin: 100px auto 60px auto;
 }
 
 .title { 
@@ -59,9 +59,10 @@ header nav ul li:hover {
 .p {
     margin-top: 100px;
     
+    
 }
 .h2 {
-    margin-top: 100px   ;
+    margin: 100px auto 60px auto;
 }
 .flex-container1 {
     
@@ -94,6 +95,6 @@ header nav ul li:hover {
 
 
   h4{ 
-    margin-top: 500px;
+    margin-top: 200px;
 
 }
