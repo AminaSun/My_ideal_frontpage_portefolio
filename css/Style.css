@@ -55,23 +55,34 @@ header nav ul li:hover {
     margin: 50px 150px 5px 450px;
 }
 
-
 p { 
     margin:50px 150px 100px 450px; ;
 }
 
-h4{ 
+h3{ 
     margin:0px 150px 100px 450px;
 
 }
 
-.flex-container1 > div {
-    background-color: #D3A663;
+
+.flex-container1 {
+    
     margin: 30px 40px 50px;
     padding: 70px;
     font-size: 30px;
+    display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    text-align: center
+  }
+
+  .div1, .div2, .div3  {
+    width: 15rem;
+    height: 15rem;
+    background-color: #D3A663;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
   }
 
 
-{ }{ }{ }{ }{ }{ }{ }{ }
