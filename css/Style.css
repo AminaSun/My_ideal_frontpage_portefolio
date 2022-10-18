@@ -58,6 +58,11 @@ header nav ul li:hover {
     margin-top: 100px;
     margin-bottom: 30px;
 }
+
+article {
+    margin: 40px 0 80px 0;
+}
+
 .p {
     margin-top: 100px;
     margin-bottom: 400px;
@@ -78,9 +83,7 @@ header nav ul li:hover {
     gap: 20px;
     justify-content: space-evenly;
     align-items: center;
-    
-    
-    
+     
   }
 
   .div1, .div2, .div3  {
@@ -93,15 +96,10 @@ header nav ul li:hover {
     padding: 2rem;
     text-align: center;
     border-radius: 14px;
-    
   }
-
 
   h4{ 
     margin-top: 200px;
 
 }
 
-article {
-    margin: 40px 0 100px 0;
-}
