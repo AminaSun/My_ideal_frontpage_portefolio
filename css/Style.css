@@ -1,17 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
 
+html {
+    font-size: 20px;
+}
+
 body { 
     background-color: rgba(253, 242, 222, 1);
     font-family: 'Inter', sans-serif;
     text-align: center;
-
-    
 }
 
 header {
     display: flex;
     justify-content: space-between;
-    
 }
 
 header nav ul {
@@ -99,4 +100,8 @@ header nav ul li:hover {
   h4{ 
     margin-top: 200px;
 
+}
+
+article {
+    margin: 40px 0 80px 0;
 }
